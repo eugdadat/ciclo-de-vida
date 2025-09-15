@@ -4,6 +4,7 @@ function Contador() {
   const [contador, setContador] = useState(0);
 
   useEffect(() => {
+    //retorno de função
     console.log('Componente Montado!');
 
     return () => {
