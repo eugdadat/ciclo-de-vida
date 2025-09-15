@@ -1,0 +1,25 @@
+{
+  "name": "ciclo-de-vida",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugdadat/ciclo-de-vida.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eugdadat/ciclo-de-vida/issues"
+  },
+  "homepage": "https://github.com/eugdadat/ciclo-de-vida#readme",
+  "description": "",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-scripts": "^5.0.1"
+  }
+}
